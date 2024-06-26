@@ -1,0 +1,12 @@
+#login metasploit
+username 'msfadmin'
+password 'msfadmin'
+
+#Melihat IP Address
+ifconfig
+
+#Ping kerentanan IP target pada server
+ping 192.168.56.101
+
+#Scan kerentanan yang ada pada IP target
+nmap -sV 192.168.56.101

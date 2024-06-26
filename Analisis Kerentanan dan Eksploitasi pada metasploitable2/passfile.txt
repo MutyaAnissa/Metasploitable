@@ -1,0 +1,12 @@
+msfadmin root
+msfadmin password
+msfadmin 4dm1n
+msfadmin 12345
+msfadmin useronly
+msfadmin msfadmin
+msfadmin qwertw
+msfadmin aqdfgsa
+msfadmin angsa
+msfadmin inkls
+msfadmin inubbjls
+msfadmin skengs
